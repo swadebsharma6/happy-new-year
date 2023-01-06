@@ -49,6 +49,9 @@ p{
 .heading-container{
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
     height: 600px;
     padding: 30px;
     margin-bottom: 50px;
