@@ -9,19 +9,7 @@ h1{
     text-align: right;
     color: #151414;
 }
-header{
-    background-image: url(../images/banner/banner1.png);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 870px;
-    position: absolute;
-}
-.header{
-    
-    padding: 10px;
-    margin-right: 230px;
-    margin-top: 220px;
-}
+
 .header-description{
    font-size: 20px;
    font-weight: 400;
@@ -43,4 +31,15 @@ header{
     color: #ffff;
     font-weight: 700;
     
+}
+/* Heading details */
+.heading-details{
+    margin-right: 230px;
+    margin-top: 120px; 
+}
+.heading-container{
+    background-image: url(../images/banner/banner1.png);
+    height: 600px;
+    padding: 40px;
+    margin-bottom: 50px;
 }
