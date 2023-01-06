@@ -89,17 +89,17 @@ p{
     padding: 10px 20px;
 }
 /* contact section style */
+
 .contact-section{
     padding: 60px; 
     margin: 0 230px 70px;
-    background-image: url(/images/watch.png);
-    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
-     
+    /* background-image:  ; */
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(/images/watch.png) ;
     background-repeat: no-repeat;
+    border-radius: 8px;
 }
-.contact-details{
-    padding: 20px;
-    
+.contact-title{
+    color: #FFFFFF;
 }
 .contact-details h2{
     color: #ffff;
