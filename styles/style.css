@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+}
+h1{
+    
+    font-weight: 700;
+    font-size: 60px;
+    text-align: right;
+    color: #151414;
+}
+header{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 870px;
+    position: absolute;
+}
+.header{
+    
+    padding: 10px;
+    margin-right: 230px;
+    margin-top: 220px;
+}
+.header-description{
+   font-size: 20px;
+   font-weight: 400;
+   text-align: right; 
+   color: #444343;
+   padding: 20px;
+}
+
+.contact-btn {
+    text-align: right;
+   
+}
+.contact-btn a{
+    text-decoration: none;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #ffff;
+    font-weight: 700;
+    
+}
