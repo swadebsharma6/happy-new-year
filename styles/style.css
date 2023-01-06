@@ -59,4 +59,32 @@ p{
     align-items: center;
     justify-content: center;
     gap: 20px;
+    padding: 20px 0;
+    margin-bottom: 50px;
+}
+/* my plan styles */
+.plan-section{
+    padding: 60px  0;
+    background-color: #F5F5F5;
+
+}
+.plan-section{
+    margin: 0 230px;
+}
+.my-plan{
+    text-align: center;
+    margin-top: 30px;
+}
+.plan-contain{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    justify-content: center;
+}
+.item img{
+    width: 40px;
+}
+.item{
+    margin-left: 20px;
+    padding: 10px 20px;
 }
