@@ -69,7 +69,7 @@ p{
 
 }
 .plan-section{
-    margin: 0 230px;
+    margin: 0 230px 80px;
 }
 .my-plan{
     text-align: center;
@@ -87,4 +87,29 @@ p{
 .item{
     margin-left: 20px;
     padding: 10px 20px;
+}
+/* contact section style */
+.contact-section{
+    padding: 60px; 
+    margin: 0 230px 70px;
+    background-image: url(/images/gradient2.png);
+    background-repeat: no-repeat;
+}
+.contact-details{
+    padding: 20px;
+    
+}
+.contact-details h2{
+    color: #ffff;
+    padding-bottom: 5px;
+}
+.call-me-btn {
+    text-decoration: none;
+    text-decoration: none;
+    background-color: #F5F5F5;
+    color: orangered; 
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
 }
