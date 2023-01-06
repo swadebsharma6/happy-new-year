@@ -93,6 +93,7 @@ p{
     padding: 60px; 
     margin: 0 230px 70px;
     background-image: url(/images/gradient2.png);
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     background-repeat: no-repeat;
 }
 .contact-details{
