@@ -9,6 +9,15 @@ h1{
     text-align: right;
     color: #151414;
 }
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+}
+p{
+  color:  #444343;
+  font-size: 20px;
+}
 
 .header-description{
    font-size: 20px;
@@ -27,7 +36,7 @@ h1{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 30px;
-    border-radius: 10px;
+    border-radius: 5px;
     color: #ffff;
     font-weight: 700;
     
@@ -39,7 +48,15 @@ h1{
 }
 .heading-container{
     background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
     height: 600px;
-    padding: 40px;
+    padding: 30px;
     margin-bottom: 50px;
+}
+/* failure section styles */
+.failure-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
 }
