@@ -113,3 +113,42 @@ p{
     border-radius: 5px;
     
 }
+/* footer styles */
+footer{
+    background-color: #151414;
+    padding: 100px 0px ;
+    margin-bottom: 20px;
+}
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.footer-title{
+    color: #FFFFFF;
+}
+.email{
+    color: #FFFFFF;
+}
+.footer-description{
+    color: #FFFFFF;
+}
+.email-id{
+    width: 100%;
+    padding: 10px;
+    background-color: #151414;
+    color: #FFFFFF;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.subs-btn{
+    text-decoration: none;
+    padding: 10px 14px;
+    background-color: #FFFFFF;
+    color: orangered;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+   
+}
